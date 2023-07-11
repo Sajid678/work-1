@@ -33,7 +33,7 @@ margin: auto;
    
     height: auto;
     padding: 10px;
-    
+    margin: 30px;
     border-radius: 8px;
 background: #E55473;
  
@@ -78,10 +78,101 @@ margin: 24px;
     text-align: center;
     margin: 155px;
 }
-.delivery{
+.helpdesk{
     display: flex;
-   
+    margin-top: 80px;
+    margin-left: 100px;
+    width: 1300px;
+height: 250px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+
+}
+.delivery{
+    margin: 80px;
+    width: 88px;
+height: 88px;
+margin-left: 200px;
 }
 .fresh{
+    margin: 80px;
+    width: 88px;
+height: 88px;
+margin-left: 220px;
+}
+.support{
+    margin: 80px;
+    width: 88px;
+height: 88px;
+margin-left: 220px;
+}
+.offer
+{ 
+    margin-top: 150px;
+    width: 1922px;
+height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+   
+}
+.details{
+    
+    padding-top: 300px;
+    padding-left: 180px;
+    font-size: 55px;
+    font-weight: bolder;
+   
+   width: 100%;
+   margin:auto;
+  
+}
+.prim{
+    color:#E55473 ;
+
+}
+.long{
+    color: rgba(39, 39, 39, 0.60);
+    padding-top: 10px;
+    padding-right:400px;
+    font-family: Lato;
+width: 60%;
+margin: auto;
+   
+}
+.btn2{
+   margin-top: 20px;
+    margin-left: 300px;
+  padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+}
+
+.insta{
+
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.page{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.media{
     display: flex;
+}
+.social{
+    padding: 15px;
+}
+.email{
+    width: 1440px;
+height: 449px;
 }
