@@ -1,0 +1,87 @@
+.banner{
+    height: 100vh;
+    display: flex;
+   
+
+background: rgba(229, 84, 115, 0.10);
+padding:197px 97px 32px 240px ;
+
+align-items: center;
+
+}
+.tittle{
+    color: #272727;
+    padding-left: 50px;
+    font-size: 55px;
+    font-weight: bolder;
+   width: 100%;
+   margin: auto;
+ 
+  
+   
+   }
+   
+   .description{
+    color: rgba(39, 39, 39, 0.60);
+    padding-top: 10px;
+    padding-right: 110px;
+    font-family: Lato;
+width: 60%;
+margin: auto;
+   }
+.btn{
+   
+    height: auto;
+    padding: 10px;
+    
+    border-radius: 8px;
+background: #E55473;
+ 
+ 
+    
+}
+.featured{
+    
+    font-size: bold;
+    text-align: center;
+}
+.it{
+    color: rgba(39, 39, 39, 0.60); 
+   text-align: center;
+}
+.feature{
+    display: flex;
+}
+.second-flower{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 464px;
+height: 538px; 
+margin: 24px;
+}
+.third-flower{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+width: 464px;
+height: 538px;
+margin: 24px;
+
+}
+.fourth-flower{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+width: 464px;
+height: 538px;
+margin: 24px;
+}
+.pink{
+    text-align: center;
+    margin: 155px;
+}
+.delivery{
+    display: flex;
+   
+}
+.fresh{
+    display: flex;
+}
